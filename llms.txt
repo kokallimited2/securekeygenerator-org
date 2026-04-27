@@ -1,0 +1,18 @@
+# SecureKeyGenerator — llms.txt
+# https://llmstxt.org
+
+> Security education hub — guides, tips and tools for passwords, encryption and online safety.
+
+## Tool
+- [Security Education & Tools](https://securekeygenerator.org/): Security education hub — guides, tips and tools for passwords, encryption and online safety.
+
+## Blog
+- [Blog](https://securekeygenerator.org/blog/): Guides and tips about cybersecurity education, password guides, encryption.
+
+## Key Facts
+- Free to use, no sign-up required
+- Client-side only — no data stored or transmitted
+- Cryptographically secure (crypto.getRandomValues)
+
+## Affiliate Disclosure
+This site may contain affiliate links to password managers.

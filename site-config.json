@@ -1,0 +1,28 @@
+{
+  "id": "securekeygenerator-org",
+  "name": "SecureKeyGenerator",
+  "domain": "securekeygenerator.org",
+  "url": "https://securekeygenerator.org",
+  "emoji": "🔑",
+  "brand": "SecureKeyGenerator",
+  "angle": "Educational/resource-heavy version. Deep guides on encryption, key management, cybersecurity.",
+  "primaryColor": "blue",
+  "description": "Security education hub — guides, tips and tools for passwords, encryption and online safety.",
+  "shortDescription": "Security Education & Tools",
+  "topic": "cybersecurity education, password guides, encryption",
+  "tags": [
+    "security",
+    "education",
+    "guides",
+    "encryption",
+    "cybersecurity"
+  ],
+  "active": true,
+  "repo": "kokallimited2/securekeygenerator-org",
+  "deployDay": 3,
+  "deploySlot": "09:00",
+  "posts": [],
+  "defaultKeywords": "cybersecurity education, password guides, encryption",
+  "blogDescription": "Guides, tips and news about cybersecurity education, password guides, encryption.",
+  "generatedAt": "2026-04-26"
+}
