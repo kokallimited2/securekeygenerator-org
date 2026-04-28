@@ -3,11 +3,11 @@
   "name": "SecureKeyGenerator",
   "domain": "securekeygenerator.org",
   "url": "https://securekeygenerator.org",
-  "emoji": "🔑",
+  "emoji": "\ud83d\udd11",
   "brand": "SecureKeyGenerator",
   "angle": "Educational/resource-heavy version. Deep guides on encryption, key management, cybersecurity.",
   "primaryColor": "blue",
-  "description": "Security education hub — guides, tips and tools for passwords, encryption and online safety.",
+  "description": "Security education hub \u2014 guides, tips and tools for passwords, encryption and online safety.",
   "shortDescription": "Security Education & Tools",
   "topic": "cybersecurity education, password guides, encryption",
   "tags": [
@@ -24,5 +24,6 @@
   "posts": [],
   "defaultKeywords": "cybersecurity education, password guides, encryption",
   "blogDescription": "Guides, tips and news about cybersecurity education, password guides, encryption.",
-  "generatedAt": "2026-04-26"
+  "generatedAt": "2026-04-26",
+  "siteName": "SecureKeyGenerator"
 }
