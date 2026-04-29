@@ -1,5 +1,23 @@
 [
   {
+    "slug": "dictionary-attacks-why-real-words-are-dangerous-in-passwords",
+    "title": "Dictionary Attacks: Why Real Words Are Dangerous in Passwords",
+    "excerpt": "Using real words in your password — even with clever substitutions — makes you far more vulnerable than you think.",
+    "date": "2026-04-29",
+    "category": "Password Strength",
+    "readTime": "4 min read",
+    "keywords": "dictionary attack, password words, p@ssw0rd, leet speak password, password dictionary"
+  },
+  {
+    "slug": "how-password-managers-store-your-data-and-why-its-safe",
+    "title": "How Password Managers Store Your Data — And Why It's Safe",
+    "excerpt": "Worried about putting all your passwords in one place? Here's the cryptography behind how good password managers keep your data secure.",
+    "date": "2026-04-29",
+    "category": "Password Managers",
+    "readTime": "5 min read",
+    "keywords": "how password managers work, password manager encryption, zero knowledge, AES-256, password vault security"
+  },
+  {
     "slug": "how-long-would-it-take-to-crack-your-password",
     "title": "How Long Would It Take to Crack Your Password?",
     "excerpt": "Password cracking speeds have increased dramatically with modern GPUs. Find out how your current passwords measure up.",

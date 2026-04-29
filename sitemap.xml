@@ -54,5 +54,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  
+  <url>
+    <loc>https://securekeygenerator.org/blog/posts/dictionary-attacks-why-real-words-are-dangerous-in-passwords.html</loc>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://securekeygenerator.org/blog/posts/how-password-managers-store-your-data-and-why-its-safe.html</loc>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
   <!-- Blog posts appended automatically by publisher -->
 </urlset>
