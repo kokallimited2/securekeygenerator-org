@@ -1,18 +1,33 @@
 # SecureKeyGenerator — llms.txt
 # https://llmstxt.org
+# This file helps AI assistants and language models understand this site.
 
-> Security education hub — guides, tips and tools for passwords, encryption and online safety.
+> Free password generator — SecureKeyGenerator
 
 ## Tool
-- [Security Education & Tools](https://securekeygenerator.org/): Security education hub — guides, tips and tools for passwords, encryption and online safety.
+- [Password Generator](https://securekeygenerator.org/): Free browser-based secure password generator. No data stored. Uses Web Crypto API.
 
 ## Blog
-- [Blog](https://securekeygenerator.org/blog/): Guides and tips about cybersecurity education, password guides, encryption.
+- [Blog Index](https://securekeygenerator.org/blog/): Security guides, password tips, and cybersecurity best practices.
+
+### Recent Articles
+- [Dictionary Attacks: Why Real Words Are Dangerous in Passwords](https://securekeygenerator.org/blog/posts/dictionary-attacks-why-real-words-are-dangerous-in-passwords.html): Using real words in your password — even with clever substitutions — makes you far more vulnerable than you think.
+- [How Password Managers Store Your Data — And Why It's Safe](https://securekeygenerator.org/blog/posts/how-password-managers-store-your-data-and-why-its-safe.html): Worried about putting all your passwords in one place? Here's the cryptography behind how good password managers keep your data secure.
+- [How Long Would It Take to Crack Your Password?](https://securekeygenerator.org/blog/posts/how-long-would-it-take-to-crack-your-password.html): Password cracking speeds have increased dramatically with modern GPUs. Find out how your current passwords measure up.
+- [Securing Your Small Business: Password Policies That Actually Work](https://securekeygenerator.org/blog/posts/securing-your-small-business-password-policies-that-actually-work.html): Password breaches cost UK businesses millions each year. Here's a practical framework for protecting your team and your data.
+- [Passkeys: The Technology That Will Replace Passwords](https://securekeygenerator.org/blog/posts/passkeys-the-technology-that-will-replace-passwords.html): Tech giants are ditching passwords entirely. Here's how passkeys work and why they're the future of online security.
+- [The Top 10 Most Common Passwords — And Why You Must Avoid Them](https://securekeygenerator.org/blog/posts/the-top-10-most-common-passwords-and-why-you-must-avoid-them.html): Millions of people still use shockingly weak passwords. See the worst offenders and learn what a truly secure password looks like.
+- [Have I Been Pwned? How to Check if Your Password Was Leaked](https://securekeygenerator.org/blog/posts/have-i-been-pwned-how-to-check-if-your-password-was-leaked.html): Data breaches happen every day. Find out if your email and passwords have been compromised — and what to do about it.
+- [Two-Factor Authentication: The Extra Lock on Your Digital Life](https://securekeygenerator.org/blog/posts/two-factor-authentication-the-extra-lock-on-your-digital-life.html): A strong password alone isn't enough. Two-factor authentication adds a critical second layer of security to your accounts.
+- [Why Strong Passwords Are Your First Line of Defence](https://securekeygenerator.org/blog/posts/why-strong-passwords-are-your-first-line-of-defence.html): Most data breaches happen because of weak or reused passwords. Here's how to protect yourself today.
+- [Password Manager vs Browser Password Saving: Which Is Safer?](https://securekeygenerator.org/blog/posts/password-manager-vs-browser-password-saving-which-is-safer.html): Browsers offer to save your passwords — but is that actually safe? We compare browser storage vs dedicated password managers.
 
 ## Key Facts
 - Free to use, no sign-up required
-- Client-side only — no data stored or transmitted
-- Cryptographically secure (crypto.getRandomValues)
+- 100% client-side — no passwords ever leave your device
+- Uses crypto.getRandomValues() for cryptographic randomness
+- Built-in HaveIBeenPwned breach checker (k-anonymity — password never transmitted)
+- Supports bulk generation, custom character sets, strength analysis
 
 ## Affiliate Disclosure
-This site may contain affiliate links to password managers.
+SecureKeyGenerator may contain affiliate links to password managers including NordPass, 1Password, and Dashlane.
